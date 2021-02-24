@@ -140,7 +140,7 @@ Power Automate US Government provides the ability to integrate third-party appli
 
 ## Configure mobile clients
 
-Here are the steps that you must take to sign in with the Power Apps mobile client.
+Here are the steps that you must take to sign in with the Power Automate mobile client.
 
 1. On the sign-in page, select the gear icon in the lower-right corner.
 1. Select **Region settings**.
